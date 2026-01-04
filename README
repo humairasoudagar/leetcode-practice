@@ -1,0 +1,15 @@
+# LeetCode Practice
+
+This repo is where I’m storing my LeetCode solutions while practicing DSA.
+
+## Language
+- Python
+
+## Structure
+Each file usually contains one problem solution.
+File names may include the LeetCode problem number.
+
+## Why this repo
+- To stay consistent
+- To track my progress
+- To revisit problems when concepts feel rusty
